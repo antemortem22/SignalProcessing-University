@@ -1,0 +1,4 @@
+The purpose of both scripts was given by an universitary paper. I'm (or was) studying sound engineering. 
+The objective of them was to process audio in real time, recorded by a microphone. I had several problems with the compatibility of PyAudio for the fact that is no longer in maintenance, so the last version was updated in 2017.
+To complement I've added many libraries like MathPlotLib, PySimpleGUI, Numpy, etc. They were necessary to create a simple and understandable interface. 
+I couldn't make a very functional program due to lack of time, that's why I made two scripts focused differently; one on precision (Exact_mic) and the other in complexity(Complex_mic). The first one has more sensitivity in receiving audio and the second one is less precise but has more data. 
